@@ -37,7 +37,7 @@
  🙋‍♂️ Visit My Portfolio <!--  https://
                     -->
 
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganesh28Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Ganesh28Patil" /> </p>
  ### 🛠 &nbsp;Tech Stack
 
 
