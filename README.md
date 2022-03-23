@@ -26,7 +26,7 @@
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, HTML, CSS, Bootstrap, React, and MongoDb
+💬 *Ask me about :* Data Structures and Algorithms, JavaScript, HTML, CSS, Bootstrap, React, and MongoDb.
   
   📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LMWO9x_Zn9xD2fDYKCJNysWy6ywKwY-Q/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
@@ -72,4 +72,4 @@
 
 <a href="mailto:gp28info@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gp28info@gmail.com-blue?style=flat-square&logo=gmail"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40GaneshP71440366)](https://twitter.com/GaneshP71440366)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ganesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//)](https://www.linkedin.com/in/ganesh-patil-716b191b8/)
+[![Linkedin: ganeshPatil](https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//)](https://www.linkedin.com/in/ganesh-patil-716b191b8/)
