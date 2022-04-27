@@ -73,5 +73,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:gp28info@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gp28info@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a target="_blank" href="https://www.linkedin.com/in/ganesh-patil-716b191b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+ [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40GaneshP71440366)](https://twitter.com/GaneshP71440366)
+ <a target="_blank" href=""><img alt="LinkedIn" src="https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40GaneshP71440366)](https://twitter.com/GaneshP71440366)
 [![Linkedin: ganeshPatil](https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//)](https://www.linkedin.com/in/ganesh-patil-716b191b8/)
