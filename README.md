@@ -81,8 +81,8 @@
  
  
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40GaneshP71440366&target="_blank")](https://twitter.com/GaneshP71440366)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40GaneshP71440366&target=_blank)](https://twitter.com/GaneshP71440366)
  
-[![Linkedin: ganeshPatil](https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&target="_blank"&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//)](https://www.linkedin.com/in/ganesh-patil-716b191b8/)
+[![Linkedin: ganeshPatil](https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&target=_blank&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//)](https://www.linkedin.com/in/ganesh-patil-716b191b8/)
  
 
