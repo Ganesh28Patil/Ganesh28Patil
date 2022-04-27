@@ -77,4 +77,4 @@
  [![Linkedin: ganeshPatil](https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ganesh-patil-716b191b8//)](https://www.linkedin.com/in/ganesh-patil-716b191b8/)
 
  
-<!-- <a target="blank" href="https://www.linkedin.com/in/ganesh-patil-716b191b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> -->
+<a href="https://www.linkedin.com/in/ganesh-patil-716b191b8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ganesh_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
