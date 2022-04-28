@@ -28,7 +28,7 @@
 
 💬 *Ask me about :* Data Structures and Algorithms, JavaScript, HTML, CSS, Bootstrap, React, and MongoDb.
   
-  📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LMWO9x_Zn9xD2fDYKCJNysWy6ywKwY-Q/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LMWO9x_Zn9xD2fDYKCJNysWy6ywKwY-Q/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 🥅 *2022 Goals :* Learning new things and contribute more  
