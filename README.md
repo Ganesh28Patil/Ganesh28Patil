@@ -34,7 +34,7 @@
 🥅 *2022 Goals :* Learning new things and contribute more  
 
  
- 🙋‍♂️ Visit My Portfolio <a href=" https://ganesh-patil-portfolio.vercel.app/">ganesh-patil-portfolio</a>
+ 🙋‍♂️ Visit My Portfolio <a href="https://ganesh-patil-portfolio.vercel.app/"> ganesh-patil-portfolio </a>
                    
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganesh28Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Ganesh28Patil" /> </p>
