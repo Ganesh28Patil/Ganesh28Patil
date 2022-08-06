@@ -6,7 +6,7 @@
  
  I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects.
  Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, and efficient code.
- Highly skilled in collabration, and DS & Algo.
+ Highly skilled in collaboration, and DS & Algo.
 <!--  
  <p >
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
